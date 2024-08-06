@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://bit.ly/kabirjaipal">Kabir Jaipal</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://bit.ly/kabirjaipal">Muhammad Noushal</a></h3>
 
 <p align="center">
 <a href="https://github.com/kabirjaipal"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirjaipal?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -15,12 +15,11 @@
 
 ```js
 {
-    name: "Kabir Jaipal",
-    age: 20,
+    name: "Muhammad Noushal",
+    age: 18,
     location: "India",
-    role : "Full Stack Developer",
-    degree : "BCA",
-    portfolio : "kabirjaipal.me"
+    role : "Unity Developer",
+    portfolio : "noushal.me"
 }
 ```
 
