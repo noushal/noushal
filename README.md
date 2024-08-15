@@ -75,7 +75,6 @@
     <img alt="Sublime" title="Sublime" src="https://skillicons.dev/icons?i=sublime" />
     <img alt="Visual Studio" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
     <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
-    <img alt="Windows" title="Windows" src="https://skillicons.dev/icons?i=windows" />
 </div>
 
 #
