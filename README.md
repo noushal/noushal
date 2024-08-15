@@ -41,7 +41,7 @@
 <div style="display: flex; flex-wrap: wrap; gap:1rem">
     <img alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
     <img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
-    <img alt="Pawn" title="Pawn" src="https://skillicons.dev/icons?i=pawn" />
+    <img alt="Pawn" title="Pawn" src="https://skillicons.dev/icons?i=pawno" />
     <img alt="Lua" title="Lua" src="https://skillicons.dev/icons?i=lua" />
     <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" />
     <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" />
