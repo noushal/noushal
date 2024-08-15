@@ -39,9 +39,9 @@
 ### Skills:
 
 <div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=unity" />
     <img alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
     <img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
-    <img alt="Pawn" title="Pawn" src="https://skillicons.dev/icons?i=pawno" />
     <img alt="Lua" title="Lua" src="https://skillicons.dev/icons?i=lua" />
     <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" />
     <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" />
@@ -56,6 +56,26 @@
     <img alt="express" title="express" src="https://skillicons.dev/icons?i=express" />
     <img alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
     <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+    <img alt="After Effects" title="After Effects" src="https://skillicons.dev/icons?i=ae" />
+    <img alt="Bash" title="Bash" src="https://skillicons.dev/icons?i=bash" />
+    <img alt="Blender" title="Blender" src="https://skillicons.dev/icons?i=blender" />
+    <img alt="Cloud Flare" title="Cloud Flare" src="https://skillicons.dev/icons?i=cloudflare" />
+    <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+    <img alt="DotNet" title="DotNet" src="https://skillicons.dev/icons?i=dotnet" />
+    <img alt="Eclipse" title="Eclipse" src="https://skillicons.dev/icons?i=eclipse" />
+    <img alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+    <img alt="Heroku" title="Heroku" src="https://skillicons.dev/icons?i=heroku" />
+    <img alt="Java" title="Java" src="https://skillicons.dev/icons?i=java" />
+    <img alt="Kali" title="Kali" src="https://skillicons.dev/icons?i=kali" />
+    <img alt="Netlify" title="Netlify" src="https://skillicons.dev/icons?i=netlify" />
+    <img alt="npm" title="npm" src="https://skillicons.dev/icons?i=npm" />
+    <img alt="Photo Shop" title="Photo Shop" src="https://skillicons.dev/icons?i=ps" />
+    <img alt="Premier Pro" title="Premier Pro" src="https://skillicons.dev/icons?i=pr" />
+    <img alt="Replit" title="Replit" src="https://skillicons.dev/icons?i=replit" />
+    <img alt="Sublime" title="Sublime" src="https://skillicons.dev/icons?i=sublime" />
+    <img alt="Visual Studio" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
+    <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+    <img alt="Windows" title="Windows" src="https://skillicons.dev/icons?i=windows" />
 </div>
 
 #
