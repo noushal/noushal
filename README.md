@@ -37,43 +37,40 @@
 #
 
 ### Skills:
-<div style="display: flex; flex-wrap: wrap; gap:1rem">
-    <img alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=unity" />
-    <img alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
-    <img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
-    <img alt="Lua" title="Lua" src="https://skillicons.dev/icons?i=lua" />
-    <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" />
-    <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" />
-    <img alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" />
-    <img alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
-    <img alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-    <img alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-    <img alt="discordjs" title="discordjs" src="https://skillicons.dev/icons?i=discordjs" />
-    <img alt="aws" title="aws" src="https://skillicons.dev/icons?i=aws" />
-    <img alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
-    <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
-    <img alt="express" title="express" src="https://skillicons.dev/icons?i=express" />
-    <img alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
-    <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
-    <img alt="After Effects" title="After Effects" src="https://skillicons.dev/icons?i=ae" />
-    <img alt="Bash" title="Bash" src="https://skillicons.dev/icons?i=bash" />
-    <img alt="Blender" title="Blender" src="https://skillicons.dev/icons?i=blender" />
-    <img alt="Cloud Flare" title="Cloud Flare" src="https://skillicons.dev/icons?i=cloudflare" />
-    <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
-    <img alt="DotNet" title="DotNet" src="https://skillicons.dev/icons?i=dotnet" />
-    <img alt="Eclipse" title="Eclipse" src="https://skillicons.dev/icons?i=eclipse" />
-    <img alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
-    <img alt="Heroku" title="Heroku" src="https://skillicons.dev/icons?i=heroku" />
-    <img alt="Java" title="Java" src="https://skillicons.dev/icons?i=java" />
-    <img alt="Kali" title="Kali" src="https://skillicons.dev/icons?i=kali" />
-    <img alt="Netlify" title="Netlify" src="https://skillicons.dev/icons?i=netlify" />
-    <img alt="npm" title="npm" src="https://skillicons.dev/icons?i=npm" />
-    <img alt="Photo Shop" title="Photo Shop" src="https://skillicons.dev/icons?i=ps" />
-    <img alt="Premier Pro" title="Premier Pro" src="https://skillicons.dev/icons?i=pr" />
-    <img alt="Replit" title="Replit" src="https://skillicons.dev/icons?i=replit" />
-    <img alt="Sublime" title="Sublime" src="https://skillicons.dev/icons?i=sublime" />
-    <img alt="Visual Studio" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" />
-    <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
-</div>
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)  
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)  
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)  
+![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FCCC00?style=flat-square&logo=davinciresolve&logoColor=black)  
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-4479A1?style=flat-square&logoColor=white)
+
 
 #
