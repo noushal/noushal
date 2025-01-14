@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
-[![Run C Code](https://img.shields.io/badge/Run-C_Code-blue)](https://replit.com/@assinagent47/Donut)
+<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://imgs.search.brave.com/b7Q1uKiWFAqW8oVuqK43c3BzRVdXCIGe1ASwHO7ESzE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2d3ZWIt/dW5pYmxvZy1wdWJs/aXNoLXByb2Qvb3Jp/Z2luYWxfaW1hZ2Vz/L0Rpbm9fbm9uLWJp/cnRoZGF5X3ZlcnNp/b24uZ2lm.gif)"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://noushal.xyz">Muhammad Noushal</a></h3>
 
