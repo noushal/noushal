@@ -37,9 +37,9 @@
 #
 
 ### Skills:
-![Unity](https://img.shields.io/badge/-Unity-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-F7DF1E?style=flat-square&logo=Unity&logoColor=black)
 <div style="display: flex; flex-wrap: wrap; gap:1rem">
-    <img alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=unity" />
+    <img alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=Unity" />
     <img alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
     <img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
     <img alt="Lua" title="Lua" src="https://skillicons.dev/icons?i=lua" />
