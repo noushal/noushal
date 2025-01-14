@@ -28,7 +28,6 @@
 ### 🙋‍♂️ Connect with me:
 
 <div align="center">
-  <a href="https://www.youtube.com/@assinagent47"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-noushal/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://noushal.xyz/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/ag.nt47_/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
