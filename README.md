@@ -36,7 +36,7 @@
 
 #
 
-## 🚀 Skills
+### 🚀 Skills
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
