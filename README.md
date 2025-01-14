@@ -36,7 +36,6 @@
 
 #
 
-### Skills:
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
@@ -72,5 +71,3 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FCCC00?style=flat-square&logo=davinciresolve&logoColor=black)  
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-4479A1?style=flat-square&logoColor=white)
 
-
-#
