@@ -39,6 +39,7 @@
 ### Skills:
 
 <div style="display: flex; flex-wrap: wrap; gap:1rem">
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
     <img alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=unity" />
     <img alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
     <img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
