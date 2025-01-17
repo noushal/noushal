@@ -43,7 +43,7 @@
 #
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=noushal)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=noushal&no-bg=true)
 
 
 
