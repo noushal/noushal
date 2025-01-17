@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://noushal.xyz">Muhammad Noushal</a></h3>
 
 <p align="center">
-<!-- <a href="https://github.com/noushal"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/noushal?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> -->
+<a href="https://github.com/noushal"><img alt="followers" title="Follow me on Github" src="https://komarev.com/ghpvc/?username=noushal"/></a>
 <a href="https://komarev.com/ghpvc/?username=noushal"></a>
 </p>
 
