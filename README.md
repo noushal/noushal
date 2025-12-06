@@ -1,6 +1,6 @@
 <div align="center"><img width="50%" height="auto" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/></div>
 
-<h3 align="center">Hey there, I'm <a href="https://noushal.xyz">Muhammad Noushal</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://noushal.in">Muhammad Noushal</a></h3>
 
 <p align="center">
 <a href="https://github.com/noushal"><img alt="followers" title="Follow me on Github" src="https://komarev.com/ghpvc/?username=noushal"/></a>
@@ -19,7 +19,7 @@
     age: 19,
     location: "India",
     role : "Unity Developer",
-    portfolio : "noushal.xyz"
+    portfolio : "noushal.in"
 }
 ```
 
@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-noushal/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://noushal.xyz/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://noushal.in/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/ag.nt47_/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
