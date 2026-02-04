@@ -18,7 +18,7 @@
     name: "Muhammad Noushal",
     age: 19,
     location: "India",
-    role : "Unity Developer",
+    role : "Full Stack Developer",
     portfolio : "noushal.in"
 }
 ```
