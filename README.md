@@ -18,7 +18,7 @@
     name: "Muhammad Noushal",
     age: 19,
     location: "India",
-    role : "Full Stack Developer",
+    role : "Java Developer",
     portfolio : "noushal.in"
 }
 ```
